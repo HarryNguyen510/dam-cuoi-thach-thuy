@@ -16,12 +16,12 @@ body::-webkit-scrollbar {
 }
 
 .font-estetik {
-  font-family: "Sacramento", cursive !important;
+  font-family: "Arial", cursive !important;
   color: #ffffff !important;
 }
 
 .font-content {
-  font-family: "Sacramento", cursive !important;
+  font-family: "Arial", cursive !important;
   color: pink !important;
 }
 
